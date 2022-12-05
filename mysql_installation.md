@@ -13,7 +13,7 @@
 
 ############ INSTALLATION IS COMPLETE AT THIS POINT #############
 
-***************ON MYSQL SHELL***********************
+***************ON MYSQL SHELL***************
 
 Step 1: open MYSQL Shell
 
@@ -28,7 +28,7 @@ Step 5 Save password : n
 Step 6: show databases;
 
 
-******************* ON COMMAND PROMPT *******************
+*******************ON COMMAND PROMPT*******************
 
 Step 1: "C:\Program Files\MySQL\MySQL Server 8.0\bin\mysqlshow" -p
 
