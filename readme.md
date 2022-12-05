@@ -91,32 +91,32 @@ git push -u origin master
     changes.
 ```
 
-`git init` - initializes project to git. Basically this command will create 
+- `git init` - initializes project to git. Basically this command will create 
 local git configurations. It tells `git` that this is the code repository we need
 to "track" changes in.
 
-`git add` - adds the files into `staging area`. It basically prepares files for
+- `git add` - adds the files into `staging area`. It basically prepares files for
 to be committed. Meaning, its part of preparation for 
 versioning.
 
-`git status` - feel free to run this command a ton times! 
+- `git status` - feel free to run this command a ton times! 
 This command is always a good idea. This command shows you what branch you're on, 
 what files are in the staging area, what files git is tracking and any other 
 important information.
 
-`git commit` - Records file version permanently in version history.
+- `git commit` - Records file version permanently in version history.
 
-`git commit -m "descriptive message"` - elaborated version of `git commit` 
+- `git commit -m "descriptive message"` - elaborated version of `git commit` 
 command where you can provide your own "custom" message against
 a particular commit.
 
-`git log` - Browse history of changes and inspect the evolution of project files.
+- `git log` - Browse history of changes and inspect the evolution of project files.
 
-`git remote add origin <https-url-copied-from-github>`
+- `git remote add origin <https-url-copied-from-github>`
 We can add associated remote repository against label called `origin`.
 We can create multiple such labels like `origin`.
 `origin` is just a popular label used to represent remote URL.
 
-NOTE -
+- **NOTE** -
 Don't be confused.
 Here `remote repository` means the repository we created on `github.com`
