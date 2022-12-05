@@ -28,8 +28,8 @@ git commit -m "<commit-message>"
 # STEP 7: run git log to see commit id and commit message history
 git log
 
-# STEP 7:
-git remote add origin git@github.com:python10sep/mini_xkcd.git
+# STEP 7: copy https URL from github and paste 
+git remote add origin https://github.com/python10sep/mini_xkcd.git
 
 # STEP 8:
 git push -u origin master
