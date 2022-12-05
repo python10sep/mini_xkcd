@@ -38,7 +38,5 @@ step 3: show databases;
 
 ```python
 If results_are_visible:
-
-        you are DONE !!!
-        
+        print("you are DONE !!!")     
 ```
