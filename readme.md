@@ -80,7 +80,7 @@ git push -u origin master
 ```
 
 
-# documentation
+# `git` documentation
 
 - what is `staging area`?
 ```
@@ -120,3 +120,4 @@ We can create multiple such labels like `origin`.
 - **NOTE** -
 Don't be confused.
 Here `remote repository` means the repository we created on `github.com`
+
