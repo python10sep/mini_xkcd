@@ -4,7 +4,19 @@
 `cd <directory-name>` 
 `ls -la` - everything including hidden folders
 
+# git configuration
+
 ```shell
+## global configs
+
+git config --global user.name "prashant"
+git config --global user.email "prashant@gmail.com"
+```
+
+```shell
+
+# First navigate to your project directory / folder
+# And then run following commands
 
 # STEP 1 : Open terminal (`cd` to project root)
 git init
