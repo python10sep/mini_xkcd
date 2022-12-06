@@ -41,7 +41,7 @@
 ```
 
 ```python
-If results_are_visible:
+if results_are_visible:
         print("you are DONE !!!")     
 ```
 
