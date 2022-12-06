@@ -44,3 +44,10 @@
 If results_are_visible:
         print("you are DONE !!!")     
 ```
+
+
+# YouTube HELP video
+
+`MySQL installation` with developer default
+https://www.youtube.com/watch?v=0jlHHJqEyDQ
+
