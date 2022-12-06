@@ -66,7 +66,7 @@ git add <file-name>
 git add --all
 
 # STEP 6: whenever you run git commit all files under staging area are commited and
-# certain unique "commit-id" is generated (SHA-256).
+# certain unique "commit-id" is generated (`SHA1`).
 git commit -m "<commit-message>"
 
 # STEP 7: run git log to see commit id and commit message history
