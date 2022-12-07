@@ -22,11 +22,13 @@ git init
   information about commits, remote repository address, etc. All of them are present in this folder. It also contains a
   log that stores your commit history so that you can roll back to history.
 
+
 # Cloning an Existing Repository on github
 
 - When you clone any project from GitHub by default you clone `master` branch.
 - If you want to get a copy of an existing Git repository - For example a project from `github.com` -
   the command you need is `git clone`.
+- By default `git clone` command will download `master` copy from github.
 
 ```shell
 git clone <https-url-to-code-repo>
