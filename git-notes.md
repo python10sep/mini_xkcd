@@ -16,11 +16,18 @@ git <verb> --help
 cd </path-to-directory/>
 git init
 ```
-- This step will create a directory called `.git`. The directory is starting with DOT. which means, it's hidden 
-  directory. You can run `ls -la` to see hidden directories in `git bash` tool.
-- `.git` directory contains all the information that is necessary for your project in version control and all the
-  information about commits, remote repository address, etc. All of them are present in this folder. It also contains a
-  log that stores your commit history so that you can roll back to history.
+
+- This step will create a directory called `.git`. The directory is starting
+  with DOT. which means, it's hidden directory. You can run `ls -la` to see
+  hidden directories in `git bash` tool.
+- `.git` directory contains all the information that is necessary for your
+  project in version control and all the information about commits, remote
+  repository address, etc. All of them are present in this folder. It also
+  contains a log that stores your commit history so that you can roll back to
+  history.
+- If a directory is git repository (meaning, directory with `.git` directory)
+  and we want to remove it's git repository status, we can delete `.git`
+  directory
 
 # Cloning an Existing Repository
 
